@@ -52,8 +52,6 @@ def create(event):
         # Close the session
         session.close()
 
-# Implement the other CRUD operations (read, update, delete) similarly
-
 def read(event):
     session = Session()
 
