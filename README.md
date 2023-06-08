@@ -7,4 +7,4 @@ Create a lambda function to process the API requests and data from the RDS datab
 Also create layers for SQLAlchemy, typing_extensions and psycopg.
 P.S. I have created a single zip file(python.zip) in lambda_layer folder for the above libraries, just upload that file in the lambda layer.
 # RDS
-Use RDS instance to create a database and connect it to DBeaver to create tables and view data in the backend perspective.
+Use RDS instance to create a database and connect it to DBeaver to create tables and view data in the backend.
